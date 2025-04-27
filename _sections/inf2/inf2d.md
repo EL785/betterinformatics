@@ -19,3 +19,4 @@ pinned: true # temporary pinned as last inf exam
   - [PDDL Problems](https://nergmada.github.io/pddl-reference/reference/PDDL/problem.html)
 - [Bora M. Alper's PDDL Companion](https://github.com/boramalper/pddlc) - syntax check and plan PDDL from your terminal
 - [Bora M. Alper's Lecture Notes (2019)](https://www.boramalper.org/notes/reasoning-and-agents/)
+- [Thorough dopcument on FOL to CNF conversion (advanced)] (https://www.mpi-inf.mpg.de/fileadmin/inf/rg1/lecture25.pdf)
